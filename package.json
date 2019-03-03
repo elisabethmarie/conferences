@@ -1,0 +1,33 @@
+{
+  "name": "random-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react-router-dom": "^4.3.1",
+    "JSON": "^1.0.0",
+    "axios": "^0.18.0",
+    "babel-loader": "^8.0.5",
+    "jsonobject": "^2.0.0",
+    "moment": "^2.24.0",
+    "react": "next",
+    "react-dom": "next",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
